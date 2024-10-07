@@ -1,0 +1,15 @@
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net7.0\ZooPlugin.csproj.AssemblyReference.cache
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net7.0\ZooPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net7.0\ZooPlugin.AssemblyInfoInputs.cache
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net7.0\ZooPlugin.AssemblyInfo.cs
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net7.0\ZooPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net7.0\ZooPlugin.sourcelink.json
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\bin\Debug\net7.0\ZooPlugin.deps.json
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\bin\Debug\net7.0\ZooPlugin.runtimeconfig.json
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\bin\Debug\net7.0\ZooPlugin.rhp
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\bin\Debug\net7.0\ZooPlugin.pdb
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net7.0\ZooPlugin.rhp
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net7.0\refint\ZooPlugin.rhp
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net7.0\ZooPlugin.pdb
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net7.0\ZooPlugin.genruntimeconfig.cache
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net7.0\ref\ZooPlugin.rhp

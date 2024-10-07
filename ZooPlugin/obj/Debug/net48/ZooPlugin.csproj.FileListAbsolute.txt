@@ -1,0 +1,10 @@
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net48\ZooPlugin.csproj.AssemblyReference.cache
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net48\ZooPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net48\ZooPlugin.AssemblyInfoInputs.cache
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net48\ZooPlugin.AssemblyInfo.cs
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net48\ZooPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net48\ZooPlugin.sourcelink.json
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\bin\Debug\net48\ZooPlugin.rhp
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\bin\Debug\net48\ZooPlugin.pdb
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net48\ZooPlugin.rhp
+C:\Users\Israel Neto\source\repos\ZooPlugin\ZooPlugin\obj\Debug\net48\ZooPlugin.pdb

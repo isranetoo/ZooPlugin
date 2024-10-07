@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lP5LsvzoJd4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Israel Neto\\source\\repos\\ZooPlugin\\ZooPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Israel Neto\\.nuget\\packages\\grasshopper\\8.0.23304.9001\\grasshopper.8.0.23304.9001.nupkg.sha512",
+    "C:\\Users\\Israel Neto\\.nuget\\packages\\rhinocommon\\8.0.23304.9001\\rhinocommon.8.0.23304.9001.nupkg.sha512"
+  ],
+  "logs": []
+}
